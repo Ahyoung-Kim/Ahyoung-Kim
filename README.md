@@ -2,7 +2,7 @@
 
 <br/>
 
-<img alt="기술명" src ="https://img.shields.io/badge/기술명-색상코드.svg?&style=원하는 스타일&logo=로고명&logoColor=로고색상"/>
+<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/>
 
 <br/>
 
