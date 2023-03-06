@@ -11,7 +11,7 @@
 <img alt="Django" src ="https://img.shields.io/badge/Django-092E20.svg?&style=flat-square&logo=Django&logoColor=white"/> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat-square&logo=MongoDB&logoColor=white"/>  <img alt="GraphQL" src ="https://img.shields.io/badge/GraphQL-E10098.svg?&style=flat-square&logo=GraphQL&logoColor=white"/>  
 
 <br/>
-  <span style="font-weight: bold; font-size: 20px;">📞CONTACT</span><br/>  
+  <span style="font-weight: bold; font-size: 20px;">CONTACT</span><br/><br/>  
 <a href="https://www.instagram.com/ayviolett/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 
 <br/><br/>
