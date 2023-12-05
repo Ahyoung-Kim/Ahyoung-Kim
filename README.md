@@ -19,8 +19,6 @@
 <a href="https://www.instagram.com/ayviolett/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 
 <br/><br/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=radical&show_icons=true)
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=eileel)](https://solved.ac/=eileel)
 
